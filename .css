@@ -1,0 +1,71 @@
+.buttin {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 9px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: initial-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.buttin1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+}
+
+.buttin1:hover {
+    background-color: #4CAF50;
+    color: white;
+    border: 2px solid #96CC98;
+}
+
+.buttin2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+}
+
+.buttin2:hover {
+    background-color: #4ACDF7;
+    color: white;
+}
+
+.buttin3 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #CC002A;
+}
+
+.buttin3:hover {
+    background-color: #CC002A;
+    color: white;
+    border: 2px solid #3C000C;
+}
+
+.buttin4 {
+    background-color: white;
+    color: black;
+    border: 2px solid #e7e7e7;
+}
+
+.buttin4:hover {background-color: #e7e7e7;
+    border: 2px solid #555555;
+}
+
+.buttin5 {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+}
+
+.buttin5:hover {
+    background-color: #555555;
+    color: white;
+    border: 2px solid #e7e7e7;
+}
